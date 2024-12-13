@@ -3,7 +3,6 @@
 ## Hosted Link do check it out 👇
 https://raunakmankapure.github.io/MacOS_Doc_Flutter/
 
-A new Flutter project.
 🔴 Screen Shot:
 ![Screenshot 2024-12-13 180856](https://github.com/user-attachments/assets/1dc66d76-ca2e-453a-95de-789906863b0d)
 
